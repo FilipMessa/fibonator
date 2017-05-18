@@ -18,3 +18,5 @@ const run = coroutine(fibonator);
 for (let i = 0; i < 15; i++) {
   console.log(run().value);
 }
+
+// JOZKA: Tohle je opravdu hezke, nemam pripominky ;)
